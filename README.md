@@ -72,7 +72,7 @@ The dashboard provides an overview of revenue generation and profit margin perfo
 
 Explore the interactive dashboard below:
 
-**[📊 View Power BI Dashboard](https://app.powerbi.com/groups/me/reports/c14fa03c-1c9a-46c0-ace8-08954588b304/ReportSection?experience=power-bi&bookmarkGuid=Bookmarkf2f00567e146d58b6288)**
+**[🎬 Download Dashboard (.pbix)](https://github.com/Dhazkid1997/Regional-Analysis-Dashboard-Project/blob/main/Revenue%20Analysis%20project.pbix)**
 
 ## 🙏 Acknowledgements
 
