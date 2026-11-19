@@ -64,7 +64,7 @@ The dashboard provides an overview of revenue generation and profit margin perfo
 
 ## 🖥️ Dashboard Preview
 
-[Dashboard](https://github.com/Dhazkid1997/Regional-Analysis-Project/blob/main/Dashboard.png)
+(https://github.com/Dhazkid1997/Regional-Analysis-Project/blob/main/Dashboard.png)
 
 ## 🔗 Interactive Power BI Dashboard
 
