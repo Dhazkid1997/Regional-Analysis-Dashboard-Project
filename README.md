@@ -90,8 +90,8 @@ I look forward to exploring more opportunities to apply data analytics in solvin
 
 ### 🤝 Let's Connect
 
-- **LinkedIn:** [Connect with me](YOUR_LINKEDIN_PROFILE_URL)
-- **GitHub:** [Explore my projects](YOUR_GITHUB_PROFILE_URL)
+- **LinkedIn:** [Connect with me]((https://www.linkedin.com/in/damilare-oyebamiji/)
+- **GitHub:** [Explore my projects](https://github.com/Dhazkid1997)
 
 ---
 
